@@ -1,2 +1,3 @@
-# my first front end coding
-this is my first project to be a front end developer!
+# Kokoa Clone 2020 Update
+
+HTML & CSS are so much fun!
